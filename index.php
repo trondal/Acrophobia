@@ -13,13 +13,6 @@
 </head>
 
 <body>
-
-
-<?php
-
-    
-
-?>
     <header class="header">
         <div class=header__logo-box>
             <img src="img/logo-white.png" alt="Logo" class="header__logo">
